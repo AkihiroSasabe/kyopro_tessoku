@@ -1,0 +1,675 @@
+[package]
+name = "kyopro_tessoku"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+proconio = "0.3.6"
+itertools = "0.10.3"
+superslice = "1.0.0"
+
+[[bin]]
+name = "a01"
+path = "src/a01.rs"
+
+[[bin]]
+name = "a02"
+path = "src/a02.rs"
+
+[[bin]]
+name = "a03"
+path = "src/a03.rs"
+
+[[bin]]
+name = "a04"
+path = "src/a04.rs"
+
+[[bin]]
+name = "a05"
+path = "src/a05.rs"
+
+[[bin]]
+name = "a06"
+path = "src/a06.rs"
+
+[[bin]]
+name = "a07"
+path = "src/a07.rs"
+
+[[bin]]
+name = "a08"
+path = "src/a08.rs"
+
+[[bin]]
+name = "a09"
+path = "src/a09.rs"
+
+[[bin]]
+name = "a10"
+path = "src/a10.rs"
+
+[[bin]]
+name = "a11"
+path = "src/a11.rs"
+
+[[bin]]
+name = "a12"
+path = "src/a12.rs"
+
+[[bin]]
+name = "a13"
+path = "src/a13.rs"
+
+[[bin]]
+name = "a14"
+path = "src/a14.rs"
+
+[[bin]]
+name = "a15"
+path = "src/a15.rs"
+
+[[bin]]
+name = "a16"
+path = "src/a16.rs"
+
+[[bin]]
+name = "a17"
+path = "src/a17.rs"
+
+[[bin]]
+name = "a18"
+path = "src/a18.rs"
+
+[[bin]]
+name = "a19"
+path = "src/a19.rs"
+
+[[bin]]
+name = "a20"
+path = "src/a20.rs"
+
+[[bin]]
+name = "a21"
+path = "src/a21.rs"
+
+[[bin]]
+name = "a22"
+path = "src/a22.rs"
+
+[[bin]]
+name = "a23"
+path = "src/a23.rs"
+
+[[bin]]
+name = "a24"
+path = "src/a24.rs"
+
+[[bin]]
+name = "a25"
+path = "src/a25.rs"
+
+[[bin]]
+name = "a26"
+path = "src/a26.rs"
+
+[[bin]]
+name = "a27"
+path = "src/a27.rs"
+
+[[bin]]
+name = "a28"
+path = "src/a28.rs"
+
+[[bin]]
+name = "a29"
+path = "src/a29.rs"
+
+[[bin]]
+name = "a30"
+path = "src/a30.rs"
+
+[[bin]]
+name = "a31"
+path = "src/a31.rs"
+
+[[bin]]
+name = "a32"
+path = "src/a32.rs"
+
+[[bin]]
+name = "a33"
+path = "src/a33.rs"
+
+[[bin]]
+name = "a34"
+path = "src/a34.rs"
+
+[[bin]]
+name = "a35"
+path = "src/a35.rs"
+
+[[bin]]
+name = "a36"
+path = "src/a36.rs"
+
+[[bin]]
+name = "a37"
+path = "src/a37.rs"
+
+[[bin]]
+name = "a38"
+path = "src/a38.rs"
+
+[[bin]]
+name = "a39"
+path = "src/a39.rs"
+
+[[bin]]
+name = "a40"
+path = "src/a40.rs"
+
+[[bin]]
+name = "a41"
+path = "src/a41.rs"
+
+[[bin]]
+name = "a42"
+path = "src/a42.rs"
+
+[[bin]]
+name = "a43"
+path = "src/a43.rs"
+
+[[bin]]
+name = "a44"
+path = "src/a44.rs"
+
+[[bin]]
+name = "a45"
+path = "src/a45.rs"
+
+[[bin]]
+name = "a46"
+path = "src/a46.rs"
+
+[[bin]]
+name = "a47"
+path = "src/a47.rs"
+
+[[bin]]
+name = "a48"
+path = "src/a48.rs"
+
+[[bin]]
+name = "a49"
+path = "src/a49.rs"
+
+[[bin]]
+name = "a50"
+path = "src/a50.rs"
+
+[[bin]]
+name = "a51"
+path = "src/a51.rs"
+
+[[bin]]
+name = "a52"
+path = "src/a52.rs"
+
+[[bin]]
+name = "a53"
+path = "src/a53.rs"
+
+[[bin]]
+name = "a54"
+path = "src/a54.rs"
+
+[[bin]]
+name = "a55"
+path = "src/a55.rs"
+
+[[bin]]
+name = "a56"
+path = "src/a56.rs"
+
+[[bin]]
+name = "a57"
+path = "src/a57.rs"
+
+[[bin]]
+name = "a58"
+path = "src/a58.rs"
+
+[[bin]]
+name = "a59"
+path = "src/a59.rs"
+
+[[bin]]
+name = "a60"
+path = "src/a60.rs"
+
+[[bin]]
+name = "a61"
+path = "src/a61.rs"
+
+[[bin]]
+name = "a62"
+path = "src/a62.rs"
+
+[[bin]]
+name = "a63"
+path = "src/a63.rs"
+
+[[bin]]
+name = "a64"
+path = "src/a64.rs"
+
+[[bin]]
+name = "a65"
+path = "src/a65.rs"
+
+[[bin]]
+name = "a66"
+path = "src/a66.rs"
+
+[[bin]]
+name = "a67"
+path = "src/a67.rs"
+
+[[bin]]
+name = "a68"
+path = "src/a68.rs"
+
+[[bin]]
+name = "a69"
+path = "src/a69.rs"
+
+[[bin]]
+name = "a70"
+path = "src/a70.rs"
+
+[[bin]]
+name = "a71"
+path = "src/a71.rs"
+
+[[bin]]
+name = "a72"
+path = "src/a72.rs"
+
+[[bin]]
+name = "a73"
+path = "src/a73.rs"
+
+[[bin]]
+name = "a74"
+path = "src/a74.rs"
+
+[[bin]]
+name = "a75"
+path = "src/a75.rs"
+
+[[bin]]
+name = "a76"
+path = "src/a76.rs"
+
+[[bin]]
+name = "a77"
+path = "src/a77.rs"
+
+[[bin]]
+name = "b01"
+path = "src/b01.rs"
+
+[[bin]]
+name = "b02"
+path = "src/b02.rs"
+
+[[bin]]
+name = "b03"
+path = "src/b03.rs"
+
+[[bin]]
+name = "b04"
+path = "src/b04.rs"
+
+[[bin]]
+name = "b05"
+path = "src/b05.rs"
+
+[[bin]]
+name = "b06"
+path = "src/b06.rs"
+
+[[bin]]
+name = "b07"
+path = "src/b07.rs"
+
+[[bin]]
+name = "b08"
+path = "src/b08.rs"
+
+[[bin]]
+name = "b09"
+path = "src/b09.rs"
+
+[[bin]]
+name = "b10"
+path = "src/b10.rs"
+
+[[bin]]
+name = "b11"
+path = "src/b11.rs"
+
+[[bin]]
+name = "b12"
+path = "src/b12.rs"
+
+[[bin]]
+name = "b13"
+path = "src/b13.rs"
+
+[[bin]]
+name = "b14"
+path = "src/b14.rs"
+
+[[bin]]
+name = "b15"
+path = "src/b15.rs"
+
+[[bin]]
+name = "b16"
+path = "src/b16.rs"
+
+[[bin]]
+name = "b17"
+path = "src/b17.rs"
+
+[[bin]]
+name = "b18"
+path = "src/b18.rs"
+
+[[bin]]
+name = "b19"
+path = "src/b19.rs"
+
+[[bin]]
+name = "b20"
+path = "src/b20.rs"
+
+[[bin]]
+name = "b21"
+path = "src/b21.rs"
+
+[[bin]]
+name = "b22"
+path = "src/b22.rs"
+
+[[bin]]
+name = "b23"
+path = "src/b23.rs"
+
+[[bin]]
+name = "b24"
+path = "src/b24.rs"
+
+[[bin]]
+name = "b25"
+path = "src/b25.rs"
+
+[[bin]]
+name = "b26"
+path = "src/b26.rs"
+
+[[bin]]
+name = "b27"
+path = "src/b27.rs"
+
+[[bin]]
+name = "b28"
+path = "src/b28.rs"
+
+[[bin]]
+name = "b29"
+path = "src/b29.rs"
+
+[[bin]]
+name = "b30"
+path = "src/b30.rs"
+
+[[bin]]
+name = "b31"
+path = "src/b31.rs"
+
+[[bin]]
+name = "b32"
+path = "src/b32.rs"
+
+[[bin]]
+name = "b33"
+path = "src/b33.rs"
+
+[[bin]]
+name = "b34"
+path = "src/b34.rs"
+
+[[bin]]
+name = "b35"
+path = "src/b35.rs"
+
+[[bin]]
+name = "b36"
+path = "src/b36.rs"
+
+[[bin]]
+name = "b37"
+path = "src/b37.rs"
+
+[[bin]]
+name = "b38"
+path = "src/b38.rs"
+
+[[bin]]
+name = "b39"
+path = "src/b39.rs"
+
+[[bin]]
+name = "b40"
+path = "src/b40.rs"
+
+[[bin]]
+name = "b41"
+path = "src/b41.rs"
+
+[[bin]]
+name = "b42"
+path = "src/b42.rs"
+
+[[bin]]
+name = "b43"
+path = "src/b43.rs"
+
+[[bin]]
+name = "b44"
+path = "src/b44.rs"
+
+[[bin]]
+name = "b45"
+path = "src/b45.rs"
+
+[[bin]]
+name = "b46"
+path = "src/b46.rs"
+
+[[bin]]
+name = "b47"
+path = "src/b47.rs"
+
+[[bin]]
+name = "b48"
+path = "src/b48.rs"
+
+[[bin]]
+name = "b49"
+path = "src/b49.rs"
+
+[[bin]]
+name = "b50"
+path = "src/b50.rs"
+
+[[bin]]
+name = "b51"
+path = "src/b51.rs"
+
+[[bin]]
+name = "b52"
+path = "src/b52.rs"
+
+[[bin]]
+name = "b53"
+path = "src/b53.rs"
+
+[[bin]]
+name = "b54"
+path = "src/b54.rs"
+
+[[bin]]
+name = "b55"
+path = "src/b55.rs"
+
+[[bin]]
+name = "b56"
+path = "src/b56.rs"
+
+[[bin]]
+name = "b57"
+path = "src/b57.rs"
+
+[[bin]]
+name = "b58"
+path = "src/b58.rs"
+
+[[bin]]
+name = "b59"
+path = "src/b59.rs"
+
+[[bin]]
+name = "b60"
+path = "src/b60.rs"
+
+[[bin]]
+name = "b61"
+path = "src/b61.rs"
+
+[[bin]]
+name = "b62"
+path = "src/b62.rs"
+
+[[bin]]
+name = "b63"
+path = "src/b63.rs"
+
+[[bin]]
+name = "b64"
+path = "src/b64.rs"
+
+[[bin]]
+name = "b65"
+path = "src/b65.rs"
+
+[[bin]]
+name = "b66"
+path = "src/b66.rs"
+
+[[bin]]
+name = "b67"
+path = "src/b67.rs"
+
+[[bin]]
+name = "b68"
+path = "src/b68.rs"
+
+[[bin]]
+name = "b69"
+path = "src/b69.rs"
+
+[[bin]]
+name = "c01"
+path = "src/c01.rs"
+
+[[bin]]
+name = "c02"
+path = "src/c02.rs"
+
+[[bin]]
+name = "c03"
+path = "src/c03.rs"
+
+[[bin]]
+name = "c04"
+path = "src/c04.rs"
+
+[[bin]]
+name = "c05"
+path = "src/c05.rs"
+
+[[bin]]
+name = "c06"
+path = "src/c06.rs"
+
+[[bin]]
+name = "c07"
+path = "src/c07.rs"
+
+[[bin]]
+name = "c08"
+path = "src/c08.rs"
+
+[[bin]]
+name = "c09"
+path = "src/c09.rs"
+
+[[bin]]
+name = "c10"
+path = "src/c10.rs"
+
+[[bin]]
+name = "c11"
+path = "src/c11.rs"
+
+[[bin]]
+name = "c12"
+path = "src/c12.rs"
+
+[[bin]]
+name = "c13"
+path = "src/c13.rs"
+
+[[bin]]
+name = "c14"
+path = "src/c14.rs"
+
+[[bin]]
+name = "c15"
+path = "src/c15.rs"
+
+[[bin]]
+name = "c16"
+path = "src/c16.rs"
+
+[[bin]]
+name = "c17"
+path = "src/c17.rs"
+
+[[bin]]
+name = "c18"
+path = "src/c18.rs"
+
+[[bin]]
+name = "c19"
+path = "src/c19.rs"
+
+[[bin]]
+name = "c20"
+path = "src/c20.rs"
